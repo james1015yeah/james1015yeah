@@ -23,8 +23,6 @@ I'm **James Mark A. Gaddi**, a fresh graduate in **BS Computer Engineering** fro
 - **Deepening Framework Expertise:** While I'm comfortable with popular frameworks like ReactJS and Node.js, I'm continually refining my knowledge to leverage them more effectively.
 - **Exploring New Languages:** I'm eager to explore emerging languages and broaden my coding toolkit, which will enable me to tackle a wider range of projects.
   
-Feel free to connect, collaborate, or explore my repositories to see my progress. I’m always open to feedback and new challenges! Let's create something amazing together 🚀
-
 ---
 
 ## 🛠️ Skills
